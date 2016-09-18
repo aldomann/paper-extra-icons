@@ -1,14 +1,16 @@
-Paper Icon Theme
+Paper Extra Icons
 ===================
 
-Paper is simple and modern icon theme inspired by Google's material design.
+Custom icons for Paper Icon Theme of the [Paper Project](https://snwh.org/paper) made by [Sam Hewitt](http://snwh.org/).
 
 Paper is a free culture icon theme by Sam Hewitt and is licenced under the terms of the [Creative Commons
 Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), unless otherwise specified.
 
-###Getting Paper
+###Downloading the original Icon Theme
 
-The Paper icons can be downloaded from [here](https://github.com/snwh/paper-icon-theme/archive/master.zip).
+The original source for Paper Icon Theme can be found [here](https://github.com/snwh/paper-icon-theme). You can clone the latest version from the git repository:
+
+	git clone https://github.com/moka-project/paper-icon-theme.git
 
 ###Using the Source
 
