@@ -2,6 +2,11 @@
 
 Custom icons for Paper Icon Theme of the [Paper Project](https://snwh.org/paper) made by [Sam Hewitt](http://snwh.org/).
 
+![](Paper/48x48/places/folder-dropbox.png)
+![](Paper/48x48/places/folder-mathematica.png)
+![](Paper/48x48/places/folder-python.png)
+![](Paper/48x48/places/folder-sparkleshare.png)
+
 Paper is a free culture icon theme by Sam Hewitt and is licenced under the terms of the [Creative Commons
 Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), unless otherwise specified.
 
