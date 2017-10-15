@@ -30,6 +30,7 @@ There are scripts to simplify the rendering process; to run them (and edit icons
 
  * inkscape
  * python3
+ * gtk-engine-murrine (optional)
 
 To render new icons from their source SVG files, run the following:
 
