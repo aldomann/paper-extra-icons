@@ -7,10 +7,14 @@ Custom icons for Paper Icon Theme of the [Paper Project](https://snwh.org/paper)
 ![](Paper/48x48/emblems/mega-synced.png)
 ![](Paper/48x48/emblems/mega-pending.png)
 ![](Paper/48x48/emblems/mega-syncing.png)
+![](Paper/48x48/mimetypes/application-mathematica.png)
+![](Paper/48x48/mimetypes/text-x-matlab.png)
 ![](Paper/48x48/mimetypes/text-x-python3.png)
 ![](Paper/48x48/mimetypes/text-x-r-markdown.png)
 ![](Paper/48x48/mimetypes/application-x-r-project.png)
-![](Paper/48x48/mimetypes/application-mathematica.png)
+![](Paper/48x48/mimetypes/application-epub+zip.png)
+![](Paper/48x48/mimetypes/application-x-mobipocket-ebook.png)
+![](Paper/48x48/mimetypes/application-vnd.adobe.adept+xml.png)
 
 Paper is a free culture icon theme by Sam Hewitt and is licenced under the terms of the [Creative Commons Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), unless otherwise specified.
 
