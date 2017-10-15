@@ -17,7 +17,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="megasync.svg"
+   sodipodi:docname="mega-upload.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="29.39502"
+     inkscape:cx="-140.60498"
      inkscape:cy="106.22774"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -210,7 +210,7 @@
            y="319.74512"
            x="142.48828"
            sodipodi:role="line"
-           id="tspan3937">mega</tspan></text>
+           id="tspan3937">mega-upload</tspan></text>
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect16x16"

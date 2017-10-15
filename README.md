@@ -3,7 +3,7 @@
 Custom icons for Paper Icon Theme of the [Paper Project](https://snwh.org/paper) made by [Sam Hewitt](http://snwh.org/).
 
 ![](Paper/48x48/apps/vineyard.png)
-![](Paper/48x48/apps/megasync.png)
+![](Paper/48x48/apps/mega.png)
 ![](Paper/48x48/emblems/mega-synced.png)
 ![](Paper/48x48/emblems/mega-pending.png)
 ![](Paper/48x48/emblems/mega-syncing.png)
