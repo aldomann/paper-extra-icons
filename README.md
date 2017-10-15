@@ -2,13 +2,17 @@
 
 Custom icons for Paper Icon Theme of the [Paper Project](https://snwh.org/paper) made by [Sam Hewitt](http://snwh.org/).
 
-![](Paper/48x48/places/folder-dropbox.png)
-![](Paper/48x48/places/folder-mathematica.png)
-![](Paper/48x48/places/folder-python.png)
-![](Paper/48x48/places/folder-sparkleshare.png)
+![](Paper/48x48/apps/vineyard.png)
+![](Paper/48x48/apps/megasync.png)
+![](Paper/48x48/emblems/mega-synced.png)
+![](Paper/48x48/emblems/mega-pending.png)
+![](Paper/48x48/emblems/mega-syncing.png)
+![](Paper/48x48/mimetypes/text-x-python3.png)
+![](Paper/48x48/mimetypes/text-x-r-markdown.png)
+![](Paper/48x48/mimetypes/application-x-r-project.png)
+![](Paper/48x48/mimetypes/application-mathematica.png)
 
-Paper is a free culture icon theme by Sam Hewitt and is licenced under the terms of the [Creative Commons
-Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), unless otherwise specified.
+Paper is a free culture icon theme by Sam Hewitt and is licenced under the terms of the [Creative Commons Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), unless otherwise specified.
 
 ## Downloading the original Icon Theme
 
@@ -26,11 +30,9 @@ There are scripts to simplify the rendering process; to run them (and edit icons
 To render new icons from their source SVG files, run the following:
 
 	./render-bitmaps.py
-	./render-bitmaps-hidpi.py
 
 If it's throwing an error, the script may not be executable, try:
 
 	chmod +x render-bitmaps.py
-	chmod +x render-bitmaps-hidpi.py
 
 This script will look in the source directory (../src/*) and render the respective icons (provided there are changes).
