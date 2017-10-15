@@ -25,11 +25,10 @@ import argparse
 
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
-MAINDIR = '../Paper'
-SOURCES = ('bitmaps/apps', 'bitmaps/emblems', 'bitmaps/mimetypes')
-# SRC = 'bitmaps'
+MAINDIR = 'Paper'
+SOURCES = ('src/bitmaps/apps', 'src/bitmaps/emblems', 'src/bitmaps/mimetypes')
 
-# the resolution that non-hi-dpi icons are rendered at
+# the resolution that non-hi-dpi icons are rendered at (may be 90 or 96 depending on your inkscape build)
 DPI_1_TO_1 = 96
 # DPI multipliers to render at
 DPIS = [1, 2]
