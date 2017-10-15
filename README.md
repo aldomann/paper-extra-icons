@@ -35,4 +35,10 @@ If it's throwing an error, the script may not be executable, try:
 
 	chmod +x render-bitmaps.py
 
-This script will look in the source directory (../src/*) and render the respective icons (provided there are changes).
+This script will look in the source directory `(../src/*)` and render the respective icons (provided there are changes).
+
+## Installation
+
+Simple, you just run the script from the root of the source folder:
+```bash
+./INSTALL
