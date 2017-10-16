@@ -22,7 +22,7 @@ Paper is a free culture icon theme by Sam Hewitt and is licenced under the terms
 
 The original source for Paper Icon Theme can be found [here](https://github.com/snwh/paper-icon-theme). You can clone the latest version from the git repository:
 
-	git clone https://github.com/moka-project/paper-icon-theme.git
+	git clone https://github.com/snwh/paper-icon-theme.git
 
 ## Using the Source
 
