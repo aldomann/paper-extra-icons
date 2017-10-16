@@ -17,7 +17,8 @@ Custom icons for Paper Icon Theme of the [Paper Project](https://snwh.org/paper)
 ![](Paper/48x48/mimetypes/application-vnd.adobe.adept+xml.png)
 ![](Paper/48x48/mimetypes/text-x-tex.png)
 ![](Paper/48x48/mimetypes/text-x-bibtex.png)
-![](Paper/48x48/mimetypes/application-x-ms-dos-executable.png)
+![](https://github.com/snwh/paper-icon-theme/blob/master/Paper/48x48/mimetypes/application-x-executable.png)
+![](https://github.com/snwh/paper-icon-theme/blob/master/Paper/48x48/mimetypes/application-x-rar.png)
 
 Paper is a free culture icon theme by Sam Hewitt and is licenced under the terms of the [Creative Commons Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), unless otherwise specified.
 
@@ -50,3 +51,5 @@ This script will look in the source directory `(../src/*)` and render the respec
 Simple, you just run the script from the root of the source folder:
 ```bash
 ./INSTALL
+```
+Keep in mind that you need to have the original Paper Icon Theme for some symbolic links to work.
